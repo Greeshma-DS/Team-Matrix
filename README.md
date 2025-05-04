@@ -76,3 +76,4 @@ pip install streamlit numpy matplotlib
 
 > 📅 **Last Updated**: April 2025  
 > 🔗 youtube link: https://youtu.be/Ht9s9lWt2e8?si=LEBv5gshdLUq5KUC
+> 🔗 deployment link: https://team-matrixgit-connect4ai.streamlit.app/
