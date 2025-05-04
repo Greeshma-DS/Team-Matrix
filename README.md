@@ -3,6 +3,7 @@ Ai term project(Connect 4 AI: Minimax with Alpha-Beta Pruning)
 # 🤖 Connect 4 AI Evaluation: Minimax vs Monte Carlo Tree Search (MCTS)
 
 This project implements and compares two powerful AI strategies for the classic game of **Connect 4**:
+> 🔗 deployment link: https://team-matrixgit-connect4ai.streamlit.app/
 
 - **Minimax with Alpha-Beta Pruning**
 - **Monte Carlo Tree Search (MCTS)**
@@ -74,7 +75,7 @@ pip install streamlit numpy matplotlib
 - Add real-time gameplay (vs human)
 - Store results over time for long-term evaluation
   
-> 🔗 deployment link: https://team-matrixgit-connect4ai.streamlit.app/
+
 > 📅 **Last Updated**: May 2025  
 > 🔗 youtube link: https://youtu.be/Ht9s9lWt2e8?si=LEBv5gshdLUq5KUC
 
