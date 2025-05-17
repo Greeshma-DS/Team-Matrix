@@ -34,7 +34,7 @@ A **probabilistic** strategy that runs many simulated random games to estimate t
 
 > 🔧 Launch Instructions:
 ```bash
-streamlit run connect4_streamlitFINAL.py
+streamlit run main_connect4_FINAL.py
 ```
 
 > 🧪 Requirements:
